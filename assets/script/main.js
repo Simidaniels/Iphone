@@ -1,0 +1,1 @@
+alert ('This Page displays Iphone 13pro max')
